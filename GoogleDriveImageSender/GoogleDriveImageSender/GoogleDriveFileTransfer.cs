@@ -6,7 +6,7 @@ using System;
 using System.IO;
 using System.Threading;
 
-namespace Amazons3Calc
+namespace GoogleDriveImageSender
 {
     class GoogleDriveFileTransfer
     {

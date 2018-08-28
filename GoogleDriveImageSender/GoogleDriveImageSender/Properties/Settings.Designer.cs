@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Amazons3Calc.Properties
+namespace GoogleDriveImageSender.Properties
 {
 
 

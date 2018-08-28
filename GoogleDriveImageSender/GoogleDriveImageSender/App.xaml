@@ -1,7 +1,7 @@
-﻿<Application x:Class="Amazons3Calc.App"
+﻿<Application x:Class="GoogleDriveImageSender.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Amazons3Calc"
+             xmlns:local="clr-namespace:GoogleDriveImageSender"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
